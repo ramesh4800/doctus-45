@@ -142,7 +142,7 @@ output application/json
 output application/json
 ---
 {
-  status: "post -success"
+  status: "post -success-git"
 }]]></ee:set-payload>
             </ee:message>
         </ee:transform>
